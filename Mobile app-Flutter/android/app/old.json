@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "109204112359",
+    "project_id": "heartizm-ecg-auth",
+    "storage_bucket": "heartizm-ecg-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109204112359:android:87c2ef3e7ec529d3a6f342",
+        "android_client_info": {
+          "package_name": "com.example.ecg_auth_app_heartizm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109204112359-lqi4de5vq3jmbu04qnlbp2ss7pote1op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecg_auth_app_heartizm",
+            "certificate_hash": "352a2bce74dba4d0f955dce7d76b16b1e16fc8af"
+          }
+        },
+        {
+          "client_id": "109204112359-04q3mfr3akg8knq2j2v5u9mhljcgd29b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVn3E6qEJbnSbWiny4fh00KNmG1zfG0s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109204112359-04q3mfr3akg8knq2j2v5u9mhljcgd29b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109204112359-ca1b7h8ijm7a2f1s57uhvj8kuganq087.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecgAuthAppHeartizm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

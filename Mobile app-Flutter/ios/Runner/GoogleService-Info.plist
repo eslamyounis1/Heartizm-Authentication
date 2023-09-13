@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109204112359-ca1b7h8ijm7a2f1s57uhvj8kuganq087.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109204112359-ca1b7h8ijm7a2f1s57uhvj8kuganq087</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>109204112359-lqi4de5vq3jmbu04qnlbp2ss7pote1op.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjobBpIvl3o3csbw5SK-8Z4TsmEBHgalY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109204112359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecgAuthAppHeartizm</string>
+	<key>PROJECT_ID</key>
+	<string>heartizm-ecg-auth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>heartizm-ecg-auth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109204112359:ios:eb92a7158713adaba6f342</string>
+</dict>
+</plist>

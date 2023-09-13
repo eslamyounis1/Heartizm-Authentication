@@ -1,0 +1,90 @@
+name: ecg_auth_app_heartizm
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^5.1.0
+  get: ^4.6.5
+  liquid_swipe: ^3.1.0
+  smooth_page_indicator: ^1.1.0
+  flutter_otp_text_field: ^1.1.1
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.6.3
+  line_awesome_flutter: ^2.0.0
+  hexcolor: ^3.0.1
+  cloud_firestore: ^4.8.2
+  shared_preferences: ^2.2.0
+  flutter_web_auth_2: ^2.1.4
+  intl: ^0.18.1
+  http: ^1.1.0
+  intl_phone_field: ^3.2.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/splash_images/
+    - assets/images/on_boarding_images/
+    - assets/images/welcome_images/
+    - assets/images/login_signup_images/
+    - assets/logo/
+    - assets/images/forget_password_images/
+    - assets/images/select_watch_images/
+    - assets/images/profile_images/
+    - assets/images/arrhythmias_images/
+
+
+
+
+      
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
